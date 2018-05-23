@@ -26,3 +26,17 @@ If you are using VSCode; some handy plugins that will make the lessons easier ar
  - JavaScript Syntax Highlighter
  - Vue.js
  - Eslint
+
+______
+
+## Command-line cheat sheet
+
+### Directories
+
+1. View the current directory
+```
+pwd
+```
+```
+/home/my_user
+```
